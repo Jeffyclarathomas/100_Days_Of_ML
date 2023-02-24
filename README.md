@@ -1,7 +1,7 @@
 
 # 100-Days-Of-ML-Code
 
-My 100 Days of Machine Learning Coding Challenge.
+100 Days of Machine Learning Coding Challenge.
 
 I am taking up this challenge to learn Machine Learning and Deep Learning every day for at-least one hour !!!
 
